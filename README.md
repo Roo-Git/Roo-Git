@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roberto martinez de la fuente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roberto martinez de la fuente" height="30" width="40" /></a>
+<a href="/https://www.linkedin.com/in/roberto-mart%c3%adnez-de-la-fuente-a48aa5200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.linkedin.com/in/roberto-mart%c3%adnez-de-la-fuente-a48aa5200/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roo-git&show_icons=true&locale=en" alt="roo-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roo-git&" alt="roo-git" /></p>
+
