@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A Front-end Engineer from Spain</h3>
+<h3 align="center">A Front-end Developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roo-git&label=Profile%20views&color=0e75b6&style=flat" alt="roo-git" /> </p>
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/roberto-mart%C3%ADnez-de-la-fuente-a48aa5200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roberto martinez de la fuente" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robert-de-la-fuente-a48aa5200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roberto martinez de la fuente" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
